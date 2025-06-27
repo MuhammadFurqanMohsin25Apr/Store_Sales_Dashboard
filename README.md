@@ -4,7 +4,7 @@ This repository contains two comprehensive sales dashboards designed to provide 
 
 ## Dashboard Overview
 
-### 1. Store Sales Dashboard (Current Performance)
+### 1. Store Sales Dashboard
 The main dashboard provides a complete view of current sales performance with the following key metrics:
 
 #### Key Performance Indicators
@@ -96,8 +96,8 @@ The forecasting dashboard provides forward-looking insights for strategic planni
 - **Customer Insights**: Monitor segment behavior and preferences
 - **Predictive Planning**: Forecast future sales for strategic decisions
 
-![HR Analytics Dashboard]()
-![HR Analytics Dashboard]()
+![HR Analytics Dashboard](https://github.com/MuhammadFurqanMohsin25Apr/Store_Sales_Dashboard/blob/main/Dashboard1.png )
+![HR Analytics Dashboard](https://github.com/MuhammadFurqanMohsin25Apr/Store_Sales_Dashboard/blob/main/Dashboard2.png)
 ## Best Practices
 
 ### Dashboard Usage
